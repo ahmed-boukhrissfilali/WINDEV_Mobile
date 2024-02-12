@@ -1,0 +1,6 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Composants		TAR	27	nouvelle taille enregistrement : 27
+Composants	Composant	NNR	Adult	ATTENTION : la rubrique Adult a pour nouveau nom Composant
+Composants	Enfant	RUB-		la rubrique Enfant est supprimée
+Composants	Bebe	RUB-		la rubrique Bebe est supprimée
+Composants	Pack_famille	RUB-		la rubrique Pack_famille est supprimée

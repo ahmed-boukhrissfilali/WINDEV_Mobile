@@ -1,0 +1,9 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Composants		NFI		nouveau fichier
+OFFRE		NFI		nouveau fichier
+TARIFs		NFI		nouveau fichier
+FK_OFFRE_Composants		NWL	OFFRE (IDOFFRE) et TARIFs (OFFRE)	Nouvelle liaison entre les fichiers OFFRE (IDOFFRE) et TARIFs (OFFRE)
+Contrainte_Composants_OFFRE		NWL	Composants (IDComposants) et TARIFs (Composants)	Nouvelle liaison entre les fichiers Composants (IDComposants) et TARIFs (Composants)
+Composants		FRN		
+OFFRE		FRN		
+TARIFs		FRN		
