@@ -1,5 +1,5 @@
 ;PCSoft - Hyper File V7.00 - REP V7.00
 ;Do not edit. Please use specific tools.
 ANALYSISGUID=5	;Analysis GUID
-LOCALIZATION_UTF8=6755314D78434EA19E97B60DCAF3ADA4	Composants	C:\Mes Projets Mobile\simulateur_achat_billets\Exe\Application iOS\fcomp.tec
-LOCALIZATION_UTF8=4CD5D78DC6FC48C8B9B8C4D646D5EF39	OFFRE	C:\Mes Projets Mobile\simulateur_achat_billets\Exe\Application iOS\foffre.tec
+LOCALIZATION_UTF8=6755314D78434EA19E97B60DCAF3ADA4	Composants	C:\Mes Projets Mobile\WINDEV_Mobile\Exe\Application iOS\fcomp.tec
+LOCALIZATION_UTF8=4CD5D78DC6FC48C8B9B8C4D646D5EF39	OFFRE	C:\Mes Projets Mobile\WINDEV_Mobile\Exe\Application iOS\foffre.tec
